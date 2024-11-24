@@ -4,4 +4,5 @@ pornhub.com wrapper in pythok
 ```python
 import pornhub
 pornhub.download(path="aiueo",view_key="view_key",log=True)
+# path is character in front of .mp4 (xxx.mp4)
 ```
