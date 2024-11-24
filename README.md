@@ -1,5 +1,5 @@
 # pornhub.py
-pornhub.com wrapper in pythok
+pornhub.com downloader in python
 # how to use
 ```python
 import pornhub
